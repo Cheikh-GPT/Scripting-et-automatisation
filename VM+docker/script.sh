@@ -1,3 +1,5 @@
+#!/bin/bash
+
 vmname="Cheikh-VM"
 username="cheikh"
 az vm create \
